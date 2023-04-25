@@ -1,0 +1,17 @@
+body{
+	padding: 40px;
+}
+a{
+	color: blue;
+	text-decoration: none;
+}
+mark{
+	background-color: blue;
+}
+input{
+	margin: 2px;
+}
+#woah{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
